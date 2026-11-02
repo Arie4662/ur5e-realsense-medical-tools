@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "id": "9e50ee0f01b9ed14753fc127",
+  "sha256": "79345cd61be304ebb989d24bd181e4460c029b209d33452ff73359f1791db05f",
+  "run_id": "20261102-174647",
+  "method": "green-cloth-components-v1",
+  "created": 1793612852.193961,
+  "class_basis": "source_folder",
+  "priority": "high",
+  "flags": [
+    "有多段輪廓或多件物品，請檢查漏框與合併框"
+  ],
+  "metrics": {
+    "candidates": 2,
+    "skin": 0.0,
+    "area": 2791,
+    "edge": false,
+    "multiple": true
+  },
+  "boxes": [
+    {
+      "class_id": 3,
+      "xyxy": [
+        482,
+        786,
+        914,
+        1040
+      ]
+    }
+  ]
+}

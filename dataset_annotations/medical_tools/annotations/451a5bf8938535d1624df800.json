@@ -1,0 +1,23 @@
+{
+  "id": "451a5bf8938535d1624df800",
+  "sha256": "c7e387a9dc0477e4f73e8fa9b796fd76bc550d6ebec2b5ea6d0ab47e789e443a",
+  "revision": 1,
+  "status": "draft",
+  "split": "train",
+  "boxes": [
+    {
+      "class_id": 2,
+      "xyxy": [
+        490.819,
+        100.763,
+        943.799,
+        830.424
+      ]
+    }
+  ],
+  "negative": false,
+  "note": "",
+  "updated": 1793612371.0474188,
+  "provenance": "human",
+  "schema": 1
+}

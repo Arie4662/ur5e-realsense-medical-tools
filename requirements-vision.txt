@@ -1,0 +1,6 @@
+# Versions used by the source Mac for image processing and tests.
+numpy==2.0.2
+Pillow==11.3.0
+opencv-python==4.13.0.92
+# RealSense SDK/pyrealsense2 must be installed for the target OS/architecture.
+# ONNX inference additionally requires a compatible onnxruntime installation.

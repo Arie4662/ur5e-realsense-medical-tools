@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "id": "4dd5dbd73ba4dc89273c0d48",
+  "sha256": "b27a9872c0dcf22de4256219df70651613f37f8b2c858e10c5fbac6643d8812a",
+  "run_id": "20261102-174647",
+  "method": "green-cloth-components-v1",
+  "created": 1793612816.759616,
+  "class_basis": "source_folder",
+  "priority": "high",
+  "flags": [
+    "可能有手部或其他遮擋，請檢查器械邊界",
+    "器械靠近畫面邊緣，請檢查裁切範圍"
+  ],
+  "metrics": {
+    "candidates": 1,
+    "skin": 0.078,
+    "area": 13577,
+    "edge": true,
+    "multiple": false
+  },
+  "boxes": [
+    {
+      "class_id": 0,
+      "xyxy": [
+        628,
+        176,
+        1004,
+        1080
+      ]
+    }
+  ]
+}

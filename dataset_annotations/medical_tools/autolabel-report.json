@@ -1,0 +1,43 @@
+{
+  "method": "green-cloth-components-v1",
+  "run_id": "20261102-174647",
+  "source": "data/medical_tools_dataset",
+  "counts": {
+    "processed": 1422,
+    "with_box": 1311,
+    "needs_manual": 111,
+    "priority": 950,
+    "preserved_human": 5,
+    "errors": 0
+  },
+  "classes": {
+    "0": {
+      "with_box": 204,
+      "needs_manual": 33,
+      "preserved_human": 0
+    },
+    "1": {
+      "with_box": 288,
+      "needs_manual": 6,
+      "preserved_human": 1
+    },
+    "2": {
+      "with_box": 293,
+      "needs_manual": 2,
+      "preserved_human": 4
+    },
+    "3": {
+      "with_box": 299,
+      "needs_manual": 0,
+      "preserved_human": 0
+    },
+    "4": {
+      "with_box": 227,
+      "needs_manual": 70,
+      "preserved_human": 0
+    }
+  },
+  "total": 1427,
+  "updated": 1793612863.605706,
+  "complete": true
+}

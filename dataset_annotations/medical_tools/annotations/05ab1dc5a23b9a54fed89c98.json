@@ -1,0 +1,33 @@
+{
+  "id": "05ab1dc5a23b9a54fed89c98",
+  "sha256": "a6daf580e27074c8d2d854d943cc999503fdfc5bf020e7c59cc091ebfb5041a6",
+  "revision": 1,
+  "status": "reviewed",
+  "split": "train",
+  "boxes": [
+    {
+      "class_id": 2,
+      "xyxy": [
+        492,
+        0,
+        1036,
+        1080
+      ]
+    }
+  ],
+  "negative": false,
+  "note": "",
+  "updated": 1793613730.663268,
+  "provenance": "human",
+  "schema": 1,
+  "suggestion": {
+    "method": "green-cloth-components-v1",
+    "run_id": "20261102-174647",
+    "priority": "high",
+    "flags": [
+      "可能有手部或其他遮擋，請檢查器械邊界",
+      "器械靠近畫面邊緣，請檢查裁切範圍"
+    ],
+    "class_basis": "source_folder"
+  }
+}

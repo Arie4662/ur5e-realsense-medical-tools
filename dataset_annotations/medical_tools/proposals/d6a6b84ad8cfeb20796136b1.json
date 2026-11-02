@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "id": "d6a6b84ad8cfeb20796136b1",
+  "sha256": "47ca56f0e05f584500a797c1521ce25b0a9ef6bc596b78f4d61172647faa7b5b",
+  "run_id": "20261102-174647",
+  "method": "green-cloth-components-v1",
+  "created": 1793612858.900735,
+  "class_basis": "source_folder",
+  "priority": "high",
+  "flags": [
+    "長鑷子近拍反光較多，請檢查兩片尖端是否完整"
+  ],
+  "metrics": {
+    "candidates": 1,
+    "skin": 0.0,
+    "area": 23797,
+    "edge": false,
+    "multiple": false
+  },
+  "boxes": [
+    {
+      "class_id": 4,
+      "xyxy": [
+        148,
+        428,
+        1898,
+        950
+      ]
+    }
+  ]
+}

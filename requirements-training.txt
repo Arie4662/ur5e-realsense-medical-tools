@@ -1,0 +1,2 @@
+# Training environment package present on the source Mac; no training run is included.
+ultralytics==8.4.64

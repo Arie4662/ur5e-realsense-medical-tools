@@ -1,0 +1,29 @@
+{
+  "id": "c6bd59a4936d020818b9a382",
+  "sha256": "7a0948270f4a461cfa7dbd890c3e8d87c2145508feec1076572208c0c228f78a",
+  "revision": 0,
+  "status": "auto_pending",
+  "split": "train",
+  "boxes": [
+    {
+      "class_id": 2,
+      "xyxy": [
+        510,
+        164,
+        910,
+        888
+      ]
+    }
+  ],
+  "negative": false,
+  "note": "",
+  "updated": null,
+  "provenance": "automatic",
+  "suggestion": {
+    "method": "green-cloth-components-v1",
+    "run_id": "20261102-174647",
+    "priority": "normal",
+    "flags": [],
+    "class_basis": "source_folder"
+  }
+}

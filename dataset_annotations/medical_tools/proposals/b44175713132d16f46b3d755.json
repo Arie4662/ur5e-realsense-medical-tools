@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "id": "b44175713132d16f46b3d755",
+  "sha256": "d4e9fe2f030eb1f559fd3802d2c2ababad9f1127f145158e8ea5dea982027f1f",
+  "run_id": "20261102-174647",
+  "method": "green-cloth-components-v1",
+  "created": 1793612822.850306,
+  "class_basis": "source_folder",
+  "priority": "high",
+  "flags": [
+    "可能有手部或其他遮擋，請檢查器械邊界"
+  ],
+  "metrics": {
+    "candidates": 2,
+    "skin": 0.024,
+    "area": 6110,
+    "edge": false,
+    "multiple": false
+  },
+  "boxes": [
+    {
+      "class_id": 1,
+      "xyxy": [
+        584,
+        496,
+        1030,
+        1072
+      ]
+    }
+  ]
+}

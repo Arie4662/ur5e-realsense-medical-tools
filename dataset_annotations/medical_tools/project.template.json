@@ -1,0 +1,31 @@
+{
+  "source": "data/medical_tools_dataset",
+  "classes": [
+    {
+      "id": 0,
+      "name": "圓頭手術剪",
+      "slug": "round_tip_scissors"
+    },
+    {
+      "id": 1,
+      "name": "彎止血鉗",
+      "slug": "curved_hemostat"
+    },
+    {
+      "id": 2,
+      "name": "直止血鉗",
+      "slug": "straight_hemostat"
+    },
+    {
+      "id": 3,
+      "name": "短鑷子",
+      "slug": "short_forceps"
+    },
+    {
+      "id": 4,
+      "name": "長鑷子",
+      "slug": "long_forceps"
+    }
+  ],
+  "schema": 1
+}

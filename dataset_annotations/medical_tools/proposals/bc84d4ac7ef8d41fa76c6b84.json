@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "id": "bc84d4ac7ef8d41fa76c6b84",
+  "sha256": "680f39e71acdb3f9510250017281f0942841c9e106891951233d9685bfe96867",
+  "run_id": "20261102-174647",
+  "method": "green-cloth-components-v1",
+  "created": 1793612855.405631,
+  "class_basis": "source_folder",
+  "priority": "high",
+  "flags": [
+    "有多段輪廓或多件物品，請檢查漏框與合併框",
+    "器械靠近畫面邊緣，請檢查裁切範圍",
+    "長鑷子近拍反光較多，請檢查兩片尖端是否完整"
+  ],
+  "metrics": {
+    "candidates": 2,
+    "skin": 0.0,
+    "area": 9835,
+    "edge": true,
+    "multiple": true
+  },
+  "boxes": [
+    {
+      "class_id": 4,
+      "xyxy": [
+        0,
+        240,
+        1244,
+        766
+      ]
+    }
+  ]
+}

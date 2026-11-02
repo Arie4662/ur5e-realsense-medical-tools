@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "id": "7ba36e95766d01f5c1fa7132",
+  "sha256": "0694852b3db369fd3e203c039dc8f0b103ed66ea17b38f48b703c4f5de3162d4",
+  "run_id": "20261102-174647",
+  "method": "green-cloth-components-v1",
+  "created": 1793612811.215405,
+  "class_basis": "source_folder",
+  "priority": "high",
+  "flags": [
+    "未找到可靠候選框，需人工框選；不代表沒有器械"
+  ],
+  "metrics": {
+    "reason": "no_candidate"
+  },
+  "boxes": []
+}

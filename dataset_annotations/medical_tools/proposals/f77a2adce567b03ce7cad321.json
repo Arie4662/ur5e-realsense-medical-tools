@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "f77a2adce567b03ce7cad321",
+  "sha256": "028a5a6997ef3ebb9705f12d58d602d4cf2ef8f849d68b0ef4b11d7c2560eb00",
+  "run_id": "20261102-174647",
+  "method": "green-cloth-components-v1",
+  "created": 1793612853.01599,
+  "class_basis": "source_folder",
+  "priority": "high",
+  "flags": [
+    "未找到可靠候選框，需人工框選；不代表沒有器械",
+    "長鑷子近拍反光較多，請檢查兩片尖端是否完整"
+  ],
+  "metrics": {
+    "reason": "no_candidate"
+  },
+  "boxes": []
+}

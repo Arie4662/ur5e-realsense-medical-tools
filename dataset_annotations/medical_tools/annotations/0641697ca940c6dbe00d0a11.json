@@ -1,0 +1,32 @@
+{
+  "id": "0641697ca940c6dbe00d0a11",
+  "sha256": "4161cfa89e3601a3a877d5925c644f0bad9b3e6f883d116cd5ddd1d4c89da965",
+  "revision": 1,
+  "status": "reviewed",
+  "split": "train",
+  "boxes": [
+    {
+      "class_id": 2,
+      "xyxy": [
+        580,
+        0,
+        972,
+        874
+      ]
+    }
+  ],
+  "negative": false,
+  "note": "",
+  "updated": 1793613778.56021,
+  "provenance": "human",
+  "schema": 1,
+  "suggestion": {
+    "method": "green-cloth-components-v1",
+    "run_id": "20261102-174647",
+    "priority": "high",
+    "flags": [
+      "器械靠近畫面邊緣，請檢查裁切範圍"
+    ],
+    "class_basis": "source_folder"
+  }
+}

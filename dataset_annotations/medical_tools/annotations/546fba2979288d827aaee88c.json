@@ -1,0 +1,30 @@
+{
+  "id": "546fba2979288d827aaee88c",
+  "sha256": "ad8f9f372a983e65ed60df35a5d3e64f87ad943e127faa198916a3b3618d3315",
+  "revision": 1,
+  "status": "reviewed",
+  "split": "train",
+  "boxes": [
+    {
+      "class_id": 2,
+      "xyxy": [
+        510,
+        166,
+        908,
+        888
+      ]
+    }
+  ],
+  "negative": false,
+  "note": "",
+  "updated": 1793613245.888026,
+  "provenance": "human",
+  "schema": 1,
+  "suggestion": {
+    "method": "green-cloth-components-v1",
+    "run_id": "20261102-174647",
+    "priority": "normal",
+    "flags": [],
+    "class_basis": "source_folder"
+  }
+}

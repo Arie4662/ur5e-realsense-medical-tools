@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "id": "eb413e343e60ff62f7c0e9fd",
+  "sha256": "7bf095664c2e591aa75cf9ed0f998f94ae6ddeb1936009450dba4363438d8373",
+  "run_id": "20261102-174647",
+  "method": "green-cloth-components-v1",
+  "created": 1793612855.5139,
+  "class_basis": "source_folder",
+  "priority": "high",
+  "flags": [
+    "可能有手部或其他遮擋，請檢查器械邊界",
+    "有多段輪廓或多件物品，請檢查漏框與合併框",
+    "長鑷子近拍反光較多，請檢查兩片尖端是否完整"
+  ],
+  "metrics": {
+    "candidates": 3,
+    "skin": 0.037,
+    "area": 1269,
+    "edge": false,
+    "multiple": true
+  },
+  "boxes": [
+    {
+      "class_id": 4,
+      "xyxy": [
+        918,
+        724,
+        1038,
+        860
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "file": "hemostat.onnx",
+  "format": "yolov8-detect",
+  "input_size": 640,
+  "class_names": ["hemostat"]
+}
